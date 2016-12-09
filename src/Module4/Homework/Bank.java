@@ -1,6 +1,5 @@
 package Module4.Homework;
 
-import java.util.Currency;
 
 /**
  * Created by Дима on 21.11.2016.

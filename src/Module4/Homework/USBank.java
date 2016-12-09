@@ -52,7 +52,7 @@ public class USBank extends Bank{
                 return 8;
         }
         else {
-            if(sum < 1000)
+            if(summ < 1000)
                 return 5;
             else
                 return 7;

@@ -40,7 +40,7 @@ public class VariablesExample {
 
 
 
-       /* Random random = new Random();
+       /* RandomTask random = new RandomTask();
         random.nextInt(10);
         System.out.println(random.nextDouble());
 */

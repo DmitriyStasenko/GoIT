@@ -8,7 +8,7 @@ import java.util.*;
 public class EUBank extends Bank{
 
 
-    public EUBank(long id, String bankCountry, java.util.Currency currency, int numberOfEmployees, double avrSalaryOfEmployee, long rating, long totalCapital) {
+    public EUBank(long id, String bankCountry, Currency currency, int numberOfEmployees, double avrSalaryOfEmployee, long rating, long totalCapital) {
         super(id, bankCountry, currency, numberOfEmployees, avrSalaryOfEmployee, rating, totalCapital);
     }
 
@@ -47,7 +47,7 @@ public class EUBank extends Bank{
                 return 4;
         }
         else {
-            if(sum < 1000){
+            if(summ < 1000){
                 return 5;
             }
             else
